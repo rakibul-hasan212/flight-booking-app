@@ -169,14 +169,12 @@ Following the exact sequence detailed in the spec:
 
 
 # 5. Dependencies: 
-pubspec.yaml
-# For QR code generation
-qrcode_flutter: ^3.0.0 
 
-# For file operations (saving ticket)
-path_provider: ^2.0.15 
-# Optional: for sharing ticket
-share_plus: ^8.0.0
+qrcode_flutter: ^3.0.0 ,(For QR code generation)
+
+path_provider: ^2.0.15 , For file operations (saving ticket)
+
+share_plus: ^8.0.0  ,for sharing ticket
 
 
 
