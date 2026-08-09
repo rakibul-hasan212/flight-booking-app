@@ -32,6 +32,7 @@ The application should feel like a small production-quality flight-booking app r
 
 # 2. Folder Structure
 
+```text
 lib/
 ├── app/
 │   ├── app_routes.dart
@@ -73,6 +74,7 @@ lib/
 │       └── e_ticket_screen.dart
 └── main.dart
 
+```
 
 ---
 
