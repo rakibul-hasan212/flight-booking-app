@@ -1,6 +1,6 @@
 # flight_booking
 
-A new Flutter project.
+✈️ Modern Flutter Flight Booking App with flight search, booking, payment flow, e-ticket, barcode, dark mode, smooth transitions, and responsive Material 3 UI — built with clean and reusable architecture.
 
 # 1. Project Objective
 
