@@ -73,16 +73,7 @@ lib/
 │       └── e_ticket_screen.dart
 └── main.dart
 
-lib/app/app_theme.dart – Custom theme for light and dark modes using Material 3.
-lib/app/app_routes.dart – Route generator with named routes and transition animations.
-lib/core/constants – Colors, Strings, Sizes constants.
-lib/core/widgets – Custom widgets used across the app.
-lib/data/models – Data models for Flight, Passenger, and Booking.
-lib/data/repositories – Data repository (can be extended for API later).
-lib/features/home – Home screen with featured and trending flights.
-lib/features/search – Flight search and results.
-lib/features/booking – Flight details, booking form, payment screen.
-lib/features/ticket – E-ticket display with barcode generation and sharing.
+
 
 ---
 
